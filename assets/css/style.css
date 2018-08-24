@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/xX2GRj6.gif")
+}
+
+
+.title {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: #c13300;
+    opacity: 0.55;
+      
+}
+.star-wars{
+    width: 100%;
+    
+    height: 180px;
+    
+    
+}
+.star-wars-cont {
+    background-color: black;
+}
+
+
+.game {
+    font-size: 20px;
+    border: 2px solid #f0c159;
+    text-align: center;
+    color: #f0c159;
+}
+.game.left {
+    border-right: 1px solid #f0c159;
+}
+
+.game.right {
+    border-left: 1px solid #f0c159;
+    background-color: black;
+    opacity: 0.8;
+}
